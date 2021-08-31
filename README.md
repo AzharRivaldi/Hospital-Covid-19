@@ -1,6 +1,8 @@
 # Hospital-Covid-19
 Tutorial Membuat Aplikasi Pencarian Rumah Sakit Khusus COVID-19  dengan Android Studio
 
+Data ini diambil dari API https://github.com/satyawikananda/rs-bed-covid-indo-api.
+
 # Tutorial Build with Android Studio
 https://youtu.be/zSqMiMM6ddU
 
